@@ -41,23 +41,23 @@ ext {
     artifactName = 'YaMvp'
     artifactDescription = 'Yet another Mvp library. Super simple, but with enough functionality.'
     artifactLabels = ['MVP', 'RxJava', 'RxBinding', 'ButterKnife']
-    releaseVersionCode = 5
-    releaseVersionName = '1.3.0'
+    releaseVersionCode = 6
+    releaseVersionName = '1.3.1'
 
     androidCompileSdkVersion = 25
-    androidBuildToolsVersion = '25.0.1'
-    androidSupportSdkVersion = '25.0.1'
+    androidBuildToolsVersion = '25.0.2'
+    androidSupportSdkVersion = '25.1.0'
     minSdkVersion = 16
-    targetSdkVersion = 24
+    targetSdkVersion = 25
 
     junitVersion = '4.12'
-    mockitoVersion = '2.3.0'
+    mockitoVersion = '2.5.3'
     dexMakerVersion = '2.2.0'
     truthVersion = '0.30'
     espressoVersion = '2.2.2'
     testSupportLibVersion = '0.5'
     conditionWatcherVersion = '0.1'
 
-    rxjava2Version = '2.0.2'
+    rxjava2Version = '2.0.4'
     daggerVersion = '2.8'
 }
